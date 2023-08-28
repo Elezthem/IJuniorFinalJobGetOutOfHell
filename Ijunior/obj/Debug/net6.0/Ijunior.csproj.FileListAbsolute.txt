@@ -1,0 +1,15 @@
+C:\Users\hendr\source\repos\Ijunior\Ijunior\bin\Debug\net6.0\Ijunior.exe
+C:\Users\hendr\source\repos\Ijunior\Ijunior\bin\Debug\net6.0\Ijunior.deps.json
+C:\Users\hendr\source\repos\Ijunior\Ijunior\bin\Debug\net6.0\Ijunior.runtimeconfig.json
+C:\Users\hendr\source\repos\Ijunior\Ijunior\bin\Debug\net6.0\Ijunior.dll
+C:\Users\hendr\source\repos\Ijunior\Ijunior\bin\Debug\net6.0\Ijunior.pdb
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\Ijunior.csproj.AssemblyReference.cache
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\Ijunior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\Ijunior.AssemblyInfoInputs.cache
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\Ijunior.AssemblyInfo.cs
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\Ijunior.csproj.CoreCompileInputs.cache
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\Ijunior.dll
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\refint\Ijunior.dll
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\Ijunior.pdb
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\Ijunior.genruntimeconfig.cache
+C:\Users\hendr\source\repos\Ijunior\Ijunior\obj\Debug\net6.0\ref\Ijunior.dll
